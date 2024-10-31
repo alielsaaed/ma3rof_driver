@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198965813098",
+    "project_id": "maroof-57d4d",
+    "storage_bucket": "maroof-57d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198965813098:android:5239240b995043d0b68f13",
+        "android_client_info": {
+          "package_name": "com.ma3rof.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDniQ75RP_l7mNCwgynzcICJ--feXo3BGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
